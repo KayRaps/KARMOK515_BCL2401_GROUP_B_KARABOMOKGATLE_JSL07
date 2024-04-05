@@ -1,7 +1,7 @@
 ## Technologies Uses
-HTML Structure
-CSS Styling
-JavaScript Functionality
+-HTML Structure
+-CSS Styling
+-JavaScript Functionality
 
 ## Description
 This project allows you users to generate custom progress certificates for their students. The user can enter the student's name, a personalized message, and the course name. Once the user clicks the "Generate Certificate" button, a modal will appear displaying the generated certificate.
